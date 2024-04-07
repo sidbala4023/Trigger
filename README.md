@@ -38,3 +38,5 @@ Trigger Use Case
 18.Write a trigger to create task to the Account owner when an Case is Created related to an account. 
 
 19.Write a trigger to update opportunities stage (Closed Won) and Closed Date(today) when a Close all opportunities checkbox is checked in an Account.
+
+20.Write a trigger to create task to the Opportunities Account Onwer when an Opportunity is got deleted.
