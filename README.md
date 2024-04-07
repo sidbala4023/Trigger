@@ -30,3 +30,5 @@ Trigger Use Case
 14.Write a trigger when a lead is created create a task to the lead owner to “Follow Up the Lead”. 
 
 15.Write a trigger to create contact related to account with Same phone as account phone when an Create Contact checkbox is checked in Account record page.
+
+16.Write a trigger to update Total Opportunity Amount associated with account when an opportunity is “Inserted”
