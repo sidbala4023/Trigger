@@ -34,3 +34,5 @@ Trigger Use Case
 16.Write a trigger to update Total Opportunity Amount associated with account when an opportunity is “Inserted”
 
 17.Write a trigger to update Total Opportunity Amount associated with account when an opportunity is ‘Updated’ or ‘Deleted’ or ‘Undeleted’
+
+18.Write a trigger to create task to the Account owner when an Case is Created related to an account. 
