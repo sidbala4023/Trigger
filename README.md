@@ -7,3 +7,6 @@ Trigger Use Case
 
 3.Write a trigger to prevent Account deletion, if the Account is Active (‘Yes’). If Account is not 
 Active(‘No’) the deletion is done. 
+
+4.Write a trigger to insert Contact when an Account is Inserted and populated Contact first name 
+as Account name.
