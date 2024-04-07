@@ -22,3 +22,7 @@ restored.
 
 8.Write a trigger to “Update” related contact’s phone field when Account’s phone 
 gets updated 
+
+9.Write a trigger when an account inserts and CopyBillingToShipping (Custom 
+Field) picklist is equal to Yes then automatically copy account billing address into 
+account shipping address.
