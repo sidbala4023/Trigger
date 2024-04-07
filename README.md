@@ -32,3 +32,5 @@ Trigger Use Case
 15.Write a trigger to create contact related to account with Same phone as account phone when an Create Contact checkbox is checked in Account record page.
 
 16.Write a trigger to update Total Opportunity Amount associated with account when an opportunity is “Inserted”
+
+17.Write a trigger to update Total Opportunity Amount associated with account when an opportunity is ‘Updated’ or ‘Deleted’ or ‘Undeleted’
