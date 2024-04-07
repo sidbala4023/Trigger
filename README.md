@@ -13,3 +13,5 @@ as Account name.
 
 5.Write a trigger to “Update” Opportunities Phone when Account phone is updated 
 and set Opportunities phone as Account phone value. 
+
+6.Write a trigger to delete opportunity when account gets deleted.
