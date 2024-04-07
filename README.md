@@ -29,3 +29,6 @@ account shipping address.
 
 10.Write a trigger when a contact description is updated then update its parent 
 account description as same.
+
+11.Write a trigger when a contact is inserted update the count of contacts 
+associated with an account.
