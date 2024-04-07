@@ -19,3 +19,6 @@ and set Opportunities phone as Account phone value.
 7.Write a trigger to update Account’s Name and Description when it is restored from 
 recycle bin with Account name + Restored and for description Account has been 
 restored.
+
+8.Write a trigger to “Update” related contact’s phone field when Account’s phone 
+gets updated 
