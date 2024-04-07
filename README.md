@@ -10,3 +10,6 @@ Active(‘No’) the deletion is done.
 
 4.Write a trigger to insert Contact when an Account is Inserted and populated Contact first name 
 as Account name.
+
+5.Write a trigger to “Update” Opportunities Phone when Account phone is updated 
+and set Opportunities phone as Account phone value. 
