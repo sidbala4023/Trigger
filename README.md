@@ -24,3 +24,5 @@ Trigger Use Case
 11.Write a trigger when a contact is inserted update the count of contacts associated with an account.
 
 12.Write a trigger to Update Number of contacts filed in Account when Contact is Updated or Deleted or Undeleted. 
+
+13.Write a trigger when an opportunity is “Closed Won”, Create a task for opportunity owner to split the revenue among the team with high priority. 
