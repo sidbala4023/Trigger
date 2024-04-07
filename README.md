@@ -26,3 +26,6 @@ gets updated
 9.Write a trigger when an account inserts and CopyBillingToShipping (Custom 
 Field) picklist is equal to Yes then automatically copy account billing address into 
 account shipping address.
+
+10.Write a trigger when a contact description is updated then update its parent 
+account description as same.
