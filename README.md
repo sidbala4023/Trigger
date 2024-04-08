@@ -42,3 +42,5 @@ Trigger Use Case
 20.Write a trigger to create task to the Opportunities Account Onwer when an Opportunity is got deleted.
 
 21.Write a trigger to update related contact owner when Account owner is update. 
+
+22.Write a trigger to update Account custom filed (Latest_Case_Number) to Case number when a Case is Inserted.
