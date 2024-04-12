@@ -44,3 +44,6 @@ Trigger Use Case
 21.Write a trigger to update related contact owner when Account owner is update. 
 
 22.Write a trigger to update Account custom filed (Latest_Case_Number) to Case number when a Case is Inserted.
+
+23.Write a trigger on Account and check only System Administrator profile users should be able to delete an account.
+
