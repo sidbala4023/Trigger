@@ -48,3 +48,5 @@ Trigger Use Case
 23.Write a trigger on Account and check only System Administrator profile users should be able to delete an account.
 
 24.Write a trigger when an contact is created account’s related list updatethe account phone field with newly created contact phone field.
+
+25.Write a trigger to prevent duplicate account while an account is inserted
