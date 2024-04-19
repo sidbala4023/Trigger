@@ -51,4 +51,4 @@ Trigger Use Case
 
 25.Write a trigger to prevent duplicate account while an account is inserted
 
-26. Write a trigger to Account’sfiledTotalAmountofContact(Custom Object) when an Contact is 
+26. Write a trigger to Account’sfiledTotalAmountofContact(Custom Object) when an Contact is Inserted
