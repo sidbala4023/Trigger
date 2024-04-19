@@ -50,3 +50,5 @@ Trigger Use Case
 24.Write a trigger when an contact is created account’s related list updatethe account phone field with newly created contact phone field.
 
 25.Write a trigger to prevent duplicate account while an account is inserted
+
+26. Write a trigger to Account’sfiledTotalAmountofContact(Custom Object) when an Contact is 
