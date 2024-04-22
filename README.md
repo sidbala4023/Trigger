@@ -52,3 +52,6 @@ Trigger Use Case
 25.Write a trigger to prevent duplicate account while an account is inserted
 
 26. Write a trigger to Account’sfiledTotalAmountofContact(Custom Object) when an Contact is Inserted
+
+27.Write a trigger to send an welcome email when an contact is inserted and if the email is null do not send it .
+
