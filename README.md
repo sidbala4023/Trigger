@@ -55,3 +55,5 @@ Trigger Use Case
 
 27.Write a trigger to send an welcome email when an contact is inserted and if the email is null do not send it .
 
+28.Write a trigger to send an email to opportunity owner when an Opportunity stage is updated to ‘Closed Won’.
+
