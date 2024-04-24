@@ -57,3 +57,4 @@ Trigger Use Case
 
 28.Write a trigger to send an email to opportunity owner when an Opportunity stage is updated to ‘Closed Won’.
 
+29.Write a trigger when lead is created then check if the email of lead is already there in existing contacts. If email already exist then throw error.
