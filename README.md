@@ -60,3 +60,5 @@ Trigger Use Case
 29.Write a trigger when lead is created then check if the email of lead is already there in existing contacts. If email already exist then throw error.
 
 30.Write a trigger to create user when an contact is inserted (Assume I take this scenario for MixedDML error and using Future method to solve the scenario).
+
+31.Write a trigger to Update Contact’s Description while an contact is  inserting and if it related to Account then Update Contact description field with Account description field.
