@@ -62,3 +62,6 @@ Trigger Use Case
 30.Write a trigger to create user when an contact is inserted (Assume I take this scenario for MixedDML error and using Future method to solve the scenario).
 
 31.Write a trigger to Update Contact’s Description while an contact is  inserting and if it related to Account then Update Contact description field with Account description field.
+
+32.Write a trigger to send an email to the Opportunity record owner when record is inserted or updated and has amount greater than 10,000.
+
