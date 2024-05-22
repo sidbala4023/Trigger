@@ -65,3 +65,4 @@ Trigger Use Case
 
 32.Write a trigger to send an email to the Opportunity record owner when record is inserted or updated and has amount greater than 10,000.
 
+33.Write a trigger to send an email when an account is updated with details of contact modified between the last update and current update of account.(For Example : I have One account,this account has two contacts in the morning I have updated the Account and after that I have also updated one of the contact in the account.In the afternoon when I am updating the same account I have to send email to the account owner that the detail of contact updated in the Account).
